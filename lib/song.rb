@@ -5,5 +5,5 @@ class Song
   end
 
   attr_reader :artist
-  
+
 end
