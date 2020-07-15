@@ -1,4 +1,4 @@
-class Post 
+class Post
 
   def initialize(title)
     @title=title
@@ -6,5 +6,5 @@ class Post
 
   attr_reader :title
   attr_accessor :author
-  
+
 end
