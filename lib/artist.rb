@@ -5,5 +5,5 @@ class Artist
   end
 
   attr_reader :name
-  
+
 end
