@@ -4,7 +4,7 @@ class Song
     @titlz=title
   end
 
-  attr_accessor :artist
+  attr_accessor :artist, :title
   attr_reader :title
 
 end
